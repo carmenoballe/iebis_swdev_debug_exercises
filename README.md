@@ -16,7 +16,7 @@ Once that you are done fixing bugs, to score you must:
 4. Push to your GitHub repository
 5. Finally place a Pull Request so I can see your proposed answers
 
-
+New Commit
 ## Exercises
 ### Exercise 1
 When the object is created, WordAnalyzer has the class that holds different methods that analyzes characteristics of the word passed as argument when the object WordAnalyzer is created.
